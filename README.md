@@ -77,8 +77,8 @@ Report:
 
 ## Results
 
-| Model | Validation method | Accuracy | Precision | Recall | F1-score |
-| --- | --- | ---: | ---: | ---: | ---: |
+| Model | Accuracy | Precision | Recall | F1-score |
+| --- | ---: | ---: | ---: | ---: |
 | Decision Tree | 98.75% | 1.0000 | 0.9875 | 0.9936 |
 | Random Forest | 99.375% | 1.0000 | 1.0000 | 1.0000 |
 | Logistic Regression | 93.75% | 0.9375 | 0.9375 | 0.9375 |
