@@ -104,32 +104,35 @@ Report:
 - Tune hyperparameters through cross-validation
 
 ## Dataset
-`kidney_disease.csv` from public dataset on Kaggle.
+`kidney_disease.csv` A UCI dataset repository from public dataset. It has over 52,559 views at time of this study on its official website
 
 ## Exploratory Data Analysis
-
-### Feature Distributions
-
-![Selected feature distributions](images/feature-distributions.png)
 
 ### Correlation Analysis
 
 ![Feature correlation heatmap](images/correlation-heatmap.png)
+---
 
 ## Model Evaluation
 
 ### Random Forest
 
-![Random Forest performance](images/random-forest-performance.png)
-
+![Random Forest performance](images/random-forest-performance-1.png)
+---
+![Random Forest performance](images/random-forest-performance-2.png)
+---
 ### K-Nearest Neighbors
 
 ![KNN model selection](images/knn-model-selection.png)
+---
+### Logistic Regression
 
+![Logistic Regression actual vs prediction](images/logistic-regression-result.png)
+---
 ### Artificial Neural Network
 
 ![ANN training curves](images/ann-training-curves.png)
-
+---
 ## Contributors
 
 - Mansiba Gohil
